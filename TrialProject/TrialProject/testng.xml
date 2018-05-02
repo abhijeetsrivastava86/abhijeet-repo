@@ -1,0 +1,7 @@
+<suite name="Sample suite">
+	<test name="Learning jenkins">
+		<classes>
+			<class name="selenium.scripts.Jenkins_Demo"></class>
+		</classes>
+	</test>
+</suite>
